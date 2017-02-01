@@ -1,0 +1,10 @@
+{
+  "name": "puppetfinland-w32time",
+  "version": "0.1.0",
+  "author": "Puppet-Finland team",
+  "license": "BSD license",
+  "summary": "Setup w32time",
+  "source": "https://github.com/Puppet-Finland/puppet-w32time.git",
+  "project_page": "https://github.com/Puppet-Finland/puppet-w32time",
+  "dependencies": [ ]
+}
